@@ -35,7 +35,7 @@ print("Precision:", precision)
 print("Recall:", recall)
 print("F1 Score:", f1)
 
-"""import joblib
+import joblib
 
 joblib.dump(model, "model.pkl")
-joblib.dump(tfidf, "vectorizer.pkl")"""
+joblib.dump(tfidf, "vectorizer.pkl")
