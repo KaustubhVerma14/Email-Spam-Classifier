@@ -176,3 +176,10 @@ email_spam_classifier/
 This project demonstrates how a complete machine learning pipeline can be built from scratch for text classification tasks. It highlights the importance of preprocessing, feature engineering, and proper model evaluation in achieving high performance.
 
 ---
+
+# Some screenshots related to the project
+
+<img width="939" height="401" alt="image" src="https://github.com/user-attachments/assets/712620de-702d-4f6e-8d12-cccaf38e4a51" />
+
+<img width="947" height="399" alt="image" src="https://github.com/user-attachments/assets/41a2c70f-dd41-4cab-8000-6cbd70286743" />
+
