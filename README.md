@@ -179,7 +179,7 @@ This project demonstrates how a complete machine learning pipeline can be built 
 
 # Some screenshots related to the project
 
-![alt text](<Screenshot 2026-03-25 011843.png>)
+<img width="1895" height="798" alt="Screenshot 2026-03-25 011843" src="https://github.com/user-attachments/assets/6f6b507c-740a-4d1d-ab30-e612d3a82cb2" />
 
-![alt text](<Screenshot 2026-03-25 011731.png>)
 
+<img width="1878" height="802" alt="Screenshot 2026-03-25 011731" src="https://github.com/user-attachments/assets/2b66040d-a8b0-4190-a1d4-791de1773200" />
